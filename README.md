@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ishimwe Bosco
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning basically anything about codes
+- 💞️ I’m looking to collaborate on a lot of projects 
+- ⚡ Fun fact: I used to think coding was tough and not for me (I still think so)
